@@ -1,4 +1,4 @@
-# ChatGPT镜像网站：国内免费使用（支持GPT-4，GPT4o，无需翻墙）
+# ChatGPT镜像网站：国内免费使用（支持GPT-4，GPT-4o和GPT-o1）
 
 > 更新时间：2024/12/22 <br />
 > 作者：chatgpt-site-cn 
